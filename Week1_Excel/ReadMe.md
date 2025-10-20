@@ -4,4 +4,4 @@ This is my week 1 Excel workbook and it covered...
 
 ## Visual Example
 
-[image_Excel]
+![Excel Workbook Screenshot](image_Excel.png)
