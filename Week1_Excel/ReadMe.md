@@ -4,4 +4,4 @@ This is my week 1 Excel workbook and it covered...
 
 ## Visual Example
 
-![image_Excel.png]
+[image_Excel.png]
