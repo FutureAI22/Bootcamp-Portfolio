@@ -4,6 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analysis Bootcamp Project
 --------------------------------
 
-![Image 1 description](images/image1.png)
+![A descriptive title for your image](Images/image1.png)
 
 
